@@ -2,7 +2,7 @@ CC = gcc
 
 SRCS = main.c
 
-TARGET = IntegerOverflow
+TARGET = Underflow
 
 BUILDDIR = buildDir
 
